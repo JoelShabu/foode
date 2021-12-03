@@ -33,6 +33,20 @@ a {
 a:hover {
     text-decoration: none;
 }
+.go {
+    display: block;
+    width: 100%;
+    background-color: orange;
+    color: white;
+    font-weight: 700;
+    border: none;
+    padding: 1rem;
+    border-radius: 8px;
+    font-size: 0.75rem;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+}
 
 .small {
     font-size: 68%;
